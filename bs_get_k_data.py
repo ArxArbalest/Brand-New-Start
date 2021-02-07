@@ -6,7 +6,7 @@ import baostock as bs
 #             Start_date: 'YYYY-MM-DD', if empty default is 2015-01-01
 #             End_date: 'YYYY-MM-DD', if empty default is the most recent trading day
 #             Frequency: data interval, 'd' = day, 'w' = week, 'm' = month, '5' = 5 minutes, '15' = 15 minutes, '30' = 30 minutes, '60' = 60 minutes
-#             Adjust: '3' no adjust flag, '2' slipt adjust
+#             Adjust: '3' no adjust flag, '2' split adjust
 
 def bs_k_data_request(Code = 'sz.000001', Start_date = '2015-01-01', End_date, Frequency = 'd', Adjust = 3 ):
     # login to BaoStock
