@@ -1,10 +1,57 @@
 # Brand-New-Start
 py4F
 
-bs_k_data_request requirements:
+Aim to build a quant trade system.
 
-python -m pip install baostock
+  1. Get data
+  
+      1.1 Get stock data 
+      
+        1.1.1 Request from given API
+   
+        1.1.2 Python spider get data from web
+      
+        1.1.3 Use data offered by securities 
+      
+      ...
+      
+  2. Database manage history data
+      
+      ...
+      
+  3. PyQT GUI
+  
+      ...
+  
+  4. Simple strategy 
+  
+      ...
+  
+  5. Backtesting system
+      
+      ...
+  
+  6. Machine learning trained strategy 
+  
+      ...
+      
+  7. Optimize Strategy
+  
+      ...
+  
+  8. Customized services
+  
+      ...
 
-python -m pip install pandas
+  9. Distributed server
+  
+      ...
+  
+  10. Account management system
+  
+      ...
+      
+  11. Optimization
+  
 
-python -m pip install matplot
+
